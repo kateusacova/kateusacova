@@ -1,4 +1,4 @@
-<h1 align="center">Kate Usacova</h1>
+<h1 align="center"> :wave: Hello, world! </h1>
 
 <div align="center">
   
