@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Kate Usacova</h1>
 
-<!--
-**kateusacova/kateusacova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[My GitHub CV](https://github.com/kateusacova/CV) | [LinkedIn](https://www.linkedin.com/in/kateusacova/)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:heart_on_fire:	[Self-driven](https://github.com/kateusacova/CV#self-driven) Trainee Software Engineer  
+:round_pushpin:	Currently studying at [Makers Academy](https://makers.tech/) as part of traineeship at [BCB Group](https://www.bcbgroup.com/)   
+:woman_student:	First Class BSc (Hons) Accounting and Finance with modules in VBA, Cryptocurrency & Blockchain, Financial Econometrics    
+ 
+
+**Tech Skills**: HTML, CSS, JavaScript, Bootstrap, Ruby
