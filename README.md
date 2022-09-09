@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[My GitHub CV](https://github.com/kateusacova/CV) | [LinkedIn](https://www.linkedin.com/in/kateusacova/)
+[GitHub CV](https://github.com/kateusacova/CV) | [LinkedIn](https://www.linkedin.com/in/kateusacova/)
 
 </div>
 
