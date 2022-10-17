@@ -11,4 +11,4 @@
 :woman_student:	First Class BSc (Hons) Accounting and Finance with modules in VBA and Cryptocurrency & Blockchain   
  
 
-**Tech Skills**: Ruby (ActiveRecord, Sinatra), SQL (PostgreSQL), HTML, CSS, JavaScript, Bootstrap
+**Tech Skills**: Ruby (RSpec, ActiveRecord, Sinatra), SQL (PostgreSQL), HTML, CSS, JavaScript, Bootstrap
