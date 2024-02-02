@@ -2,13 +2,12 @@
 
 <div align="center">
   
-[GitHub CV](https://github.com/kateusacova/CV) | [LinkedIn](https://www.linkedin.com/in/kateusacova/) | [Codewars](https://www.codewars.com/users/kateusacova)
+[LinkedIn](https://www.linkedin.com/in/kateusacova/) 
 
 </div>
 
-:heart_on_fire:	[Self-driven](https://github.com/kateusacova/CV#self-driven) Trainee Software Engineer  
-:round_pushpin:	Currently studying at [Makers Academy](https://makers.tech/) as part of the traineeship at [BCB Group](https://www.bcbgroup.com/)   
-:woman_student:	First Class BSc (Hons) Accounting and Finance with modules in VBA and Cryptocurrency & Blockchain   
- 
+- Full Stack Software Engineer working in a Series A fintech
+- Completed Makers (16-week intensive coding bootcamp sponsored by [BCB Group](https://www.bcbgroup.com/)
+- 1st Class BSc (Hons) in Accounting and Finance with modules in VBA and Cryptocurrency & Blockchain
 
-**Tech Skills**: Ruby (RSpec, ActiveRecord, Sinatra), SQL (PostgreSQL), HTML, CSS, JavaScript, Bootstrap
+**Tech Skills**: TypeScript, JavaScript, Jest, Node.js, NestJS, Google Cloud Platform (GCP), TypeORM, PostgreSQL, MySQL, Microservices, Integration Testing
